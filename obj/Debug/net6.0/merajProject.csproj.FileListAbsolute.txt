@@ -1,0 +1,15 @@
+/home/meraj/Desktop/uniProjects/merajProject/bin/Debug/net6.0/merajProject
+/home/meraj/Desktop/uniProjects/merajProject/bin/Debug/net6.0/merajProject.deps.json
+/home/meraj/Desktop/uniProjects/merajProject/bin/Debug/net6.0/merajProject.runtimeconfig.json
+/home/meraj/Desktop/uniProjects/merajProject/bin/Debug/net6.0/merajProject.dll
+/home/meraj/Desktop/uniProjects/merajProject/bin/Debug/net6.0/ref/merajProject.dll
+/home/meraj/Desktop/uniProjects/merajProject/bin/Debug/net6.0/merajProject.pdb
+/home/meraj/Desktop/uniProjects/merajProject/obj/Debug/net6.0/merajProject.csproj.AssemblyReference.cache
+/home/meraj/Desktop/uniProjects/merajProject/obj/Debug/net6.0/merajProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/meraj/Desktop/uniProjects/merajProject/obj/Debug/net6.0/merajProject.AssemblyInfoInputs.cache
+/home/meraj/Desktop/uniProjects/merajProject/obj/Debug/net6.0/merajProject.AssemblyInfo.cs
+/home/meraj/Desktop/uniProjects/merajProject/obj/Debug/net6.0/merajProject.csproj.CoreCompileInputs.cache
+/home/meraj/Desktop/uniProjects/merajProject/obj/Debug/net6.0/merajProject.dll
+/home/meraj/Desktop/uniProjects/merajProject/obj/Debug/net6.0/ref/merajProject.dll
+/home/meraj/Desktop/uniProjects/merajProject/obj/Debug/net6.0/merajProject.pdb
+/home/meraj/Desktop/uniProjects/merajProject/obj/Debug/net6.0/merajProject.genruntimeconfig.cache
